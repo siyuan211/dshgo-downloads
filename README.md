@@ -1,2 +1,21 @@
-# dshgo-downloads
-DSH Go Android APK download mirror
+# DSH Go · Android 下载镜像
+
+DSH Go 是运行在 Android 手机上的 DeepSeek Harness 客户端，支持本机运行、手机操控、插件市场与远程主机。
+
+## 官方下载页
+
+**https://jhllsylxscsjylyj.top/**
+
+## 当前版本
+
+- 版本：1.0.12
+- 架构：arm64
+- 系统：Android 8.0+
+- 大小：193,403,971 字节（约 184.4 MB）
+- 更新：2026-11-12
+
+请优先从上面的产品页下载。产品页会自动读取最新版本、文件大小和更新时间。
+
+## 安装提示
+
+1.0.12 的签名与 1.0.7 不同，不能直接覆盖旧版。升级前请备份应用数据，卸载旧版后再安装。
